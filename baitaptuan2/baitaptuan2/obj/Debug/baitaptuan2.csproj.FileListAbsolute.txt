@@ -1,0 +1,14 @@
+C:\Tan\Thang_BaiTapLTTMTW\baitaptuan2\baitaptuan2\bin\Debug\baitaptuan2.exe.config
+C:\Tan\Thang_BaiTapLTTMTW\baitaptuan2\baitaptuan2\bin\Debug\baitaptuan2.exe
+C:\Tan\Thang_BaiTapLTTMTW\baitaptuan2\baitaptuan2\bin\Debug\baitaptuan2.pdb
+C:\Tan\Thang_BaiTapLTTMTW\baitaptuan2\baitaptuan2\obj\Debug\baitaptuan2.csproj.AssemblyReference.cache
+C:\Tan\Thang_BaiTapLTTMTW\baitaptuan2\baitaptuan2\obj\Debug\baitaptuan2.csproj.CoreCompileInputs.cache
+C:\Tan\Thang_BaiTapLTTMTW\baitaptuan2\baitaptuan2\obj\Debug\baitaptuan2.exe
+C:\Tan\Thang_BaiTapLTTMTW\baitaptuan2\baitaptuan2\obj\Debug\baitaptuan2.pdb
+C:\Users\Admin\OneDrive\Desktop\baitaptuan2\baitaptuan2\bin\Debug\baitaptuan2.exe.config
+C:\Users\Admin\OneDrive\Desktop\baitaptuan2\baitaptuan2\bin\Debug\baitaptuan2.exe
+C:\Users\Admin\OneDrive\Desktop\baitaptuan2\baitaptuan2\bin\Debug\baitaptuan2.pdb
+C:\Users\Admin\OneDrive\Desktop\baitaptuan2\baitaptuan2\obj\Debug\baitaptuan2.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\baitaptuan2\baitaptuan2\obj\Debug\baitaptuan2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\baitaptuan2\baitaptuan2\obj\Debug\baitaptuan2.exe
+C:\Users\Admin\OneDrive\Desktop\baitaptuan2\baitaptuan2\obj\Debug\baitaptuan2.pdb
